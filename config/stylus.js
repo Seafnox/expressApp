@@ -10,8 +10,8 @@
  *    'sourcemap' Generates a sourcemap in sourcemaps v3 format
  */
 
-var nib = require('nib');
-var path = require('path');
+const nib = require('nib');
+const path = require('path');
 
 module.exports = {
   force: true,

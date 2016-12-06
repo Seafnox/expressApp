@@ -10,6 +10,7 @@
     "amqp": "^0.2.6",
     "amqplib": "^0.5.1",
     "body-parser": "~1.15.2",
+    "captains-log": "^1.0.2",
     "compression": "^1.6.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
